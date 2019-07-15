@@ -1,21 +1,16 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hello Chum
+date: "2019-07-14T22:12:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is our first post on our new Boardgame Blog! How exciting!
 
-I'm sure I'll write a lot more interesting things in the future.
+A little bit about us:
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+> We are a group of friends and family who have a varrying amount of boardgame and tabletop gaming experience, from
+> a few who have only been playing games for the last year or two, to others who have spent over ten years gaming. 
+> We came together over the last couple of weeks and decided to make a boardgame blog, so hopefully people could 
+> enjoy the same games that we do!
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
 
 ![Chinese Salty Egg](./salty_egg.jpg)
