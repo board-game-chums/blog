@@ -14,9 +14,9 @@ import { rhythm } from "../utils/typography"
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/logo.png/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 109, height: 60) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -45,20 +45,20 @@ const Bio = () => {
         alt={author}
         style={{
           marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
+          marginBottom: 10,
+          minWidth: 109,
+
+          borderRadius: "none",
         }}
         imgStyle={{
-          borderRadius: `50%`,
+          borderRadius: "none",
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Reviewing the best the Golden Age of Table Top Gaming has to offer.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Follow us on Twitter!
         </a>
       </p>
     </div>
