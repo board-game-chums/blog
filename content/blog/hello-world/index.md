@@ -3,7 +3,7 @@ title: Hello Chum
 date: "2019-07-14T22:12:03.284Z"
 ---
 
-Welcome to the Board Game Chum!
+Welcome to Board Game Chum!
 
 So who the heck are we? 
 
