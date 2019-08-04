@@ -9,7 +9,7 @@ So who the heck are we?
 
 SETH: We are three cousins who grew up together playing games. From Super Mario 3 on the Nintendo Entertainment System to HeroClix on the living room floor, we have tried our hands at many different forms of gaming.
 
-CHANTZ: Anywhere we could carve out some space to play, we did. We even thought it would be smart to play a card game on the forest floor while camping... with no card sleeves. About a decade ago, I began a grand adventure into the "Golden Age of Board Games". Settlers of Catan along with Marvel Legendary were the two go-to games in my formative board game years. They showed me that board games could be so much more than just Monopoly or Life.
+CHANTZ: Anywhere we could carve out some space to play, we did. We even thought it would be smart to play a card game on the forest floor while camping... with no card sleeves. About a decade ago, I began a grand adventure into the "Golden Age of Board Games". Settlers of Catan along with Marvel Legendary were the two go-to games in my formative board game years. They showed me that games could be so much more than just Monopoly or Life.
 
 SETH: Hey, when you got a little plastic car full of blue and pink pegs, you are livin' it up my man. For me, my board game revival started only a few years ago. Placing tiny train cars in Ticket to Ride really got my blood pumping for more. Since then, I have filled up shelves full of various titles. 
 
@@ -21,7 +21,7 @@ CHANTZ: He has also had a history similar to mine with board games. Recenty all 
 
 SETH: Yeah, as someone who has been researching different games like a madman, we thought having another source of information could be helpful. Plus it gives us some excueses for playing more games.
 
-CHANTZ: Right now, we plan on having at least one post a month on here. 
+CHANTZ: Right now, we plan on having at least one post a month. 
 
 SETH: As we get our feet underneath us though, we will be posting more and more. We hope you will join us on this new journey to chart a sea of board games for the curious player.
 
