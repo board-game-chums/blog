@@ -7,7 +7,7 @@ Welcome to the Board Game Chum!
 
 So who the heck are we? 
 
-SETH: We are three cousins who grew up together playing games. From Super Mario 3 on the Nintendo Entertainment System to HeroCLix on the living room floor, we have tried our hands at many different forms of gaming.
+SETH: We are three cousins who grew up together playing games. From Super Mario 3 on the Nintendo Entertainment System to HeroClix on the living room floor, we have tried our hands at many different forms of gaming.
 
 CHANTZ: Anywhere we could carve out some space to play, we did. We even thought it would be smart to play a card game on the forest floor while camping... with no card sleeves. About a decade ago, I began a grand adventure into the "Golden Age of Board Games". Settlers of Catan along with Marvel Legendary were the two go-to games in my formative board game years. They showed me that board games could be so much more than just Monopoly or Life.
 
